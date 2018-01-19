@@ -1,0 +1,8 @@
+{
+  "name": "ionic-audio",
+  "app_id": "",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
